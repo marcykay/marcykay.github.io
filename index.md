@@ -1,8 +1,8 @@
-<!DOCTYPE html>
 <html lang="en" dir="ltr">
 
 <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
     <title>Marcy Kay Profile Page</title>
     <link rel="stylesheet" href="./styles.css">
     <link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,700,900&display=swap" rel="stylesheet">
