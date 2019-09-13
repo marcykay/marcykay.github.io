@@ -1,14 +1,5 @@
-<html lang="en" dir="ltr">
-
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>Marcy Kay Profile Page</title>
     <link rel="stylesheet" href="./styles.css">
     <link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,700,900&display=swap" rel="stylesheet">
-
-    <div class="navbar">
-        <div class="navbar_text">Marcy Kay Profile Page</div>
-    </div>
     <main>
         <h3>Year 2019 September 13,</h3>
         <h3>Completed Software Engineering Immersive (SEI-19) @ <a href="https://generalassemb.ly/">General Assembly Singapore</a></h3>
