@@ -31,13 +31,13 @@
         <li><a href="https://oakandbrass.herokuapp.com/">Oak & Brass</a></li>
         <ul>
             <li>A furniture e-commerce website</li>
-            <li>Features includes Augmented Reality (AR) furniture placement; Space planning: move furniture using drag and drop features on the user uploaded floor plan</li>
+            <li>Features includes Augmented Reality (AR) furniture placement; Space planning: move furniture simply by drag and drop on the user uploaded floor plan</li>
             <li>Integrates with Stripes Payment, 8th-Wall AR API</li>
             <li>Built on Ruby on Rails/PostgreSQL/Javascript/AJAX</li>
         </ul>
         <li><a href="https://sei19-haveagoodday.herokuapp.com/">Have a Good Day</a></li>
         <ul>
-            <li>A dashboard based on React front-end frameworks which grabs data from NEA & LTA to display weather and bus arrivals information</li>
+            <li>A dashboard based on React front-end frameworks which fetches data from NEA & LTA (APIs) to display weather and bus arrivals information</li>
             <li>Built with Node.js/Express/React.js/PostgreSQL/AJAX/Javascript</li>
         </ul>
     </ul>
