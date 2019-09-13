@@ -47,6 +47,6 @@
             </ul>
         </ul>
     </main>
-    <footer><div><a href="mailto:mahchinkok@gmail.com">email</a><div></footer>
+    <div><a href="mailto:mahchinkok@gmail.com">email</a><div>
     <script src="script.js"></script>
 
