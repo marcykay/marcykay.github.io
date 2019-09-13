@@ -1,7 +1,7 @@
     <link rel="stylesheet" href="./styles.css">
     <link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,700,900&display=swap" rel="stylesheet">
     <main>
-        <h3>Year 2019 September 13,</h3>
+        <h3>2019 September 13</h3>
         <h3>Completed Software Engineering Immersive (SEI-19) @ <a href="https://generalassemb.ly/">General Assembly Singapore</a></h3>
         <h4><u>Acknowledgements</u></h4>
         In this world that we are passing through,
