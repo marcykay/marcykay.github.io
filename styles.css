@@ -52,11 +52,13 @@ li:not(:last-child) {
 	margin-bottom: 5px;
 }
 
-footer {
+.footerContainer {
 	display: flex;
     justify-content: center;
 	align-items: center;
-	height: 60px;
-	text-align: center;
-	color: black;
+	height: 40px;
+}
+.space {
+	display:inline-block;
+	width: 20px;
 }

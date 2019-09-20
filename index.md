@@ -26,6 +26,7 @@
                 <img src="./images/tie_2players.png" height="300px" />
             </ul>
         </li>
+        <hr/>
         <li><a href="https://sei19takeanote.herokuapp.com">Take A Note</a></li>
         <ul>
             <li>A full-stack mobile responsive note-taking web app</li>
@@ -33,6 +34,7 @@
             <li>LoginID: "notes", Password: "password"</li>
             <img src="./images/tan_main.png" width="500px" />
         </ul>
+        <hr/>
         <li><a href="https://oakandbrass.herokuapp.com/">Oak & Brass</a></li>
         <ul>
             <li>A furniture e-commerce website</li>
@@ -43,6 +45,7 @@
             <img src="./images/oab_main.png" width="500px" />
             <img src="./images/oab_floorPlanner.png" width="500px" />
         </ul>
+        <hr/>
         <li><a href="https://sei19-haveagoodday.herokuapp.com/">Have a Good Day</a></li>
         <ul>
             <li>A dashboard based on React front-end frameworks which fetches data from NEA & LTA (APIs) to display weather and bus arrivals information</li>
@@ -52,5 +55,5 @@
         </ul>
     </ul>
 </main>
-<div><a href="mailto:mahchinkok@gmail.com">email</a> | <a href="https://www.linkedin.com/in/ck-mah/">Linkedin</a><div>
+<div class="footerContainer"><a href="mailto:mahchinkok@gmail.com"><img src="./images/email.svg" width="30px"/></a><span class="space"></span><a href="https://www.linkedin.com/in/ck-mah/"><img src="./images/linkedin.svg" width="30px"/></a><div>
 <script src="script.js"></script>
