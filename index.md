@@ -30,7 +30,7 @@
         <li><a href="https://sei19takeanote.herokuapp.com">Take A Note - Heroku</a></li>
         <ul>
             <li>A full-stack mobile responsive note-taking web app</li>
-            <li>Data are saved on the server</li>
+            <li>Data are saved on the Heroku PostgreSQL server</li>
             <li>Built with Node.js/Express/React.js/PostgreSQL/AJAX/Javascript/Materialize-CSS</li>
             <li>LoginID: "notes", Password: "password"</li>
             <img src="./images/tan_main.png" width="500px" />
@@ -50,7 +50,7 @@
         <li><a href="https://sei19-haveagoodday.herokuapp.com/">Have a Good Day - Heroku</a></li>
         <ul>
             <li>A dashboard based on React front-end frameworks which fetches data from NEA & LTA (APIs) to display weather and bus arrivals information</li>
-            <li>User's preferences are saved on the server database, hence it can be ported easily to other platforms</li>
+            <li>User's preferences are saved on the Heroku PostgreSQL server</li>
             <li>Built with Node.js/Express/React.js/PostgreSQL/AJAX/Javascript</li>
             <li>LoginID: "user007", Password: "password"</li>
             <img src="./images/hagd_main.png" width="400px" />
