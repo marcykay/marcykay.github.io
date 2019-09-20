@@ -38,10 +38,11 @@
         <li><a href="https://sei19takeanote.herokuapp.com">Take A Note - Heroku</a></li>
         <ul>
             <li>A full-stack mobile responsive note-taking web app</li>
-            <li>Data are saved on the Heroku PostgreSQL server</li>
+            <li>Data are saved on the Heroku PostgreSQL server, images are saved on cloudinary</li>
             <li>Built with Node.js/Express/React.js/PostgreSQL/AJAX/Javascript/Materialize-CSS</li>
             <li>LoginID: "notes", Password: "password"</li>
-            <img src="./images/tan_main.png" width="500px" />
+            <li>LoginID: "holidaynotes", Password: "password"</li>
+            <img src="./images/tan_main.png" width="400px" /><img src="./images/tan_sub.png" width="400px" />
         </ul>
         <hr/>
         <li><a href="https://oakandbrass.herokuapp.com/">Oak & Brass - Heroku</a></li>
