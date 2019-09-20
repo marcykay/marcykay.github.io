@@ -3,8 +3,16 @@
 <link rel="stylesheet" href="./styles.css">
 <link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,700,900&display=swap" rel="stylesheet">
 
-
 <main>
+    <div>
+        <a href="mailto:mahchinkok@gmail.com">
+            <img src="./images/email.svg" width="30px"/>
+        </a>
+        <span class="space"></span>
+        <a href="https://www.linkedin.com/in/ck-mah/">
+            <img src="./images/linkedin.svg" width="30px"/>
+        </a>
+    </div>
     <h3>2019 September 13</h3>
     <h3>Completed Software Engineering Immersive (SEI-19) @ <a href="https://generalassemb.ly/">General Assembly Singapore</a></h3>
     <h4><u>Acknowledgements</u></h4>
@@ -57,6 +65,14 @@
         </ul>
     </ul>
 </main>
-<div class="footerContainer"><a href="mailto:mahchinkok@gmail.com"><img src="./images/email.svg" width="30px"/></a><span class="space"></span><a href="https://www.linkedin.com/in/ck-mah/"><img src="./images/linkedin.svg" width="30px"/></a><div>
+<div class="footerContainer">
+    <a href="mailto:mahchinkok@gmail.com">
+        <img src="./images/email.svg" width="30px"/>
+    </a>
+    <span class="space"></span>
+    <a href="https://www.linkedin.com/in/ck-mah/">
+        <img src="./images/linkedin.svg" width="30px"/>
+    </a>
+<div>
 
 <script src="script.js"></script>
