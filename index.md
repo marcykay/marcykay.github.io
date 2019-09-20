@@ -19,14 +19,19 @@
     <ul>
         <li><a href="https://marcykay.github.io/sei-19/project-1/game.html">Puzzle Game(Take It Easy)</a>
             <ul>
-                <li>A two-dimensional puzzle game that requires the player to strategize and form continuous rows of colour from edge to edge in order to score</li>
+                <li>A two-dimensional puzzle game that requires the player to strategize and form continuous rows of same colour from edge to edge in order to score</li>
+                <li>Playable by upto 2 players with 2 gameboards sizes</li>
                 <li>Built with HTML5, CSS3, Javascript</li>
+                <img src="./images/tie_1player.png" height="200px" />
+                <img src="./images/tie_2players.png" height="200px" />
             </ul>
         </li>
         <li><a href="https://sei19takeanote.herokuapp.com">Take A Note</a></li>
         <ul>
             <li>A full-stack mobile responsive note-taking web app</li>
             <li>Built with Node.js/Express/React.js/PostgreSQL/AJAX/Javascript/Materialize-CSS</li>
+            <li>LoginID: "notes", Password: "password"</li>
+            <img src="./images/tan_main.png" width="300px" />
         </ul>
         <li><a href="https://oakandbrass.herokuapp.com/">Oak & Brass</a></li>
         <ul>
