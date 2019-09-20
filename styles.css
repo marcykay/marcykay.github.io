@@ -58,6 +58,7 @@ li:not(:last-child) {
 	align-items: center;
 	height: 40px;
 }
+
 .space {
 	display:inline-block;
 	width: 20px;
