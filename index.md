@@ -17,7 +17,7 @@
     <p></p>
     <h4>My Projects</h4>
     <ul>
-        <li><a href="https://marcykay.github.io/sei-19/project-1/game.html">Puzzle Game(Take It Easy)</a>
+        <li><a href="https://marcykay.github.io/sei-19/project-1/game.html">Puzzle Game(Take It Easy) - Github Pages</a>
             <ul>
                 <li>A two-dimensional puzzle game that requires the player to strategize and form continuous rows of same colour from edge to edge in order to score</li>
                 <li>Playable by upto 2 players with 2 gameboards sizes</li>
@@ -27,15 +27,16 @@
             </ul>
         </li>
         <hr/>
-        <li><a href="https://sei19takeanote.herokuapp.com">Take A Note</a></li>
+        <li><a href="https://sei19takeanote.herokuapp.com">Take A Note - Heroku</a></li>
         <ul>
             <li>A full-stack mobile responsive note-taking web app</li>
+            <li>Data are saved on the server</li>
             <li>Built with Node.js/Express/React.js/PostgreSQL/AJAX/Javascript/Materialize-CSS</li>
             <li>LoginID: "notes", Password: "password"</li>
             <img src="./images/tan_main.png" width="500px" />
         </ul>
         <hr/>
-        <li><a href="https://oakandbrass.herokuapp.com/">Oak & Brass</a></li>
+        <li><a href="https://oakandbrass.herokuapp.com/">Oak & Brass - Heroku</a></li>
         <ul>
             <li>A furniture e-commerce website</li>
             <li>Features includes Augmented Reality (AR) furniture placement; Space planning: move furniture simply by drag and drop on the user uploaded floor plan</li>
@@ -46,9 +47,10 @@
             <img src="./images/oab_floorPlanner.png" width="500px" />
         </ul>
         <hr/>
-        <li><a href="https://sei19-haveagoodday.herokuapp.com/">Have a Good Day</a></li>
+        <li><a href="https://sei19-haveagoodday.herokuapp.com/">Have a Good Day - Heroku</a></li>
         <ul>
             <li>A dashboard based on React front-end frameworks which fetches data from NEA & LTA (APIs) to display weather and bus arrivals information</li>
+            <li>User's preferences are saved on the server database, hence it can be ported easily to other platforms</li>
             <li>Built with Node.js/Express/React.js/PostgreSQL/AJAX/Javascript</li>
             <li>LoginID: "user007", Password: "password"</li>
             <img src="./images/hagd_main.png" width="400px" />
