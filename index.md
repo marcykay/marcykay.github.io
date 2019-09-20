@@ -5,7 +5,7 @@
 
 
 <main>
-    <h3>2019 September 13,</h3>
+    <h3>2019 September 13</h3>
     <h3>Completed Software Engineering Immersive (SEI-19) @ <a href="https://generalassemb.ly/">General Assembly Singapore</a></h3>
     <h4><u>Acknowledgements</u></h4>
     In this world that we are passing through,
@@ -52,5 +52,5 @@
         </ul>
     </ul>
 </main>
-<div><a href="mailto:mahchinkok@gmail.com">email</a><div>
+<div><a href="mailto:mahchinkok@gmail.com">email</a> | <a href="https://www.linkedin.com/in/ck-mah/">Linkedin</a><div>
 <script src="script.js"></script>
