@@ -22,8 +22,8 @@
                 <li>A two-dimensional puzzle game that requires the player to strategize and form continuous rows of same colour from edge to edge in order to score</li>
                 <li>Playable by upto 2 players with 2 gameboards sizes</li>
                 <li>Built with HTML5, CSS3, Javascript</li>
-                <img src="./images/tie_1player.png" height="200px" />
-                <img src="./images/tie_2players.png" height="200px" />
+                <img src="./images/tie_1player.png" height="300px" />
+                <img src="./images/tie_2players.png" height="300px" />
             </ul>
         </li>
         <li><a href="https://sei19takeanote.herokuapp.com">Take A Note</a></li>
@@ -31,7 +31,7 @@
             <li>A full-stack mobile responsive note-taking web app</li>
             <li>Built with Node.js/Express/React.js/PostgreSQL/AJAX/Javascript/Materialize-CSS</li>
             <li>LoginID: "notes", Password: "password"</li>
-            <img src="./images/tan_main.png" width="300px" />
+            <img src="./images/tan_main.png" width="500px" />
         </ul>
         <li><a href="https://oakandbrass.herokuapp.com/">Oak & Brass</a></li>
         <ul>
@@ -39,11 +39,16 @@
             <li>Features includes Augmented Reality (AR) furniture placement; Space planning: move furniture simply by drag and drop on the user uploaded floor plan</li>
             <li>Integrates with Stripes Payment, 8th-Wall AR API</li>
             <li>Built on Ruby on Rails/PostgreSQL/Javascript/AJAX</li>
+            <li>LoginID: "limbei@company.com", Password: "123456"</li>
+            <img src="./images/oab_main.png" width="500px" />
+            <img src="./images/oab_floorPlanner.png" width="500px" />
         </ul>
         <li><a href="https://sei19-haveagoodday.herokuapp.com/">Have a Good Day</a></li>
         <ul>
             <li>A dashboard based on React front-end frameworks which fetches data from NEA & LTA (APIs) to display weather and bus arrivals information</li>
             <li>Built with Node.js/Express/React.js/PostgreSQL/AJAX/Javascript</li>
+            <li>LoginID: "user007", Password: "password"</li>
+            <img src="./images/hagd_main.png" width="400px" />
         </ul>
     </ul>
 </main>
