@@ -55,5 +55,6 @@
         </ul>
     </ul>
 </main>
-<div class="footerContainer"><a href="mailto:mahchinkok@gmail.com"><img src="./images/email.svg" width="30px"/></a><span class="space">&nbsp</span><a href="https://www.linkedin.com/in/ck-mah/"><img src="./images/linkedin.svg" width="30px"/></a><div>
+<div class="footerContainer"><a href="mailto:mahchinkok@gmail.com"><img src="./images/email.svg" width="30px"/></a><span class="space"></span><a href="https://www.linkedin.com/in/ck-mah/"><img src="./images/linkedin.svg" width="30px"/></a><div>
+
 <script src="script.js"></script>
