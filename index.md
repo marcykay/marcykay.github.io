@@ -47,7 +47,11 @@
         <hr/>
         <li><a href="https://oakandbrass.herokuapp.com/">Oak & Brass - Heroku</a></li>
         <ul>
-            <li>A furniture e-commerce website</li>
+            <li>A furniture e-commerce website (Team Effort)</li>
+            <ul>
+                <li><a href="https://kach92.github.io/portfolio/">Kenny Ang (Portfolio Page)</a></li>
+                <li>Ang Yixin</li>
+            </ul>
             <li>Features includes Augmented Reality (AR) furniture placement; Space planning: move furniture simply by drag and drop on the user uploaded floor plan</li>
             <li>Integrates with Stripes Payment, 8th-Wall AR API</li>
             <li>Built on Ruby on Rails/PostgreSQL/Javascript/AJAX</li>
