@@ -27,8 +27,8 @@
     <ul>
         <li><a href="https://marcykay.github.io/sei-19/project-1/game.html">Puzzle Game(Take It Easy) - Github Pages</a>
             <ul>
-                <li>A two-dimensional puzzle game that requires the player to strategize and form continuous rows of same colour from edge to edge in order to score</li>
-                <li>Playable by upto 2 players with 2 gameboards sizes</li>
+                <li>A tile-based puzzle game that requires the player to strategize and form continuous rows of same colour from edge to edge in order to score the maximum points</li>
+                <li>Playable by up to 2 players with 2 gameboards sizes</li>
                 <li>Built with HTML5, CSS3, Javascript</li>
                 <img src="./images/tie_1player.png" height="300px" />
                 <img src="./images/tie_2players.png" height="300px" />
