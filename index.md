@@ -50,7 +50,7 @@
             <li>A furniture e-commerce website (Team Effort)</li>
             <ul>
                 <li><a href="https://kach92.github.io/portfolio/">Kenny Ang (Portfolio Page)</a></li>
-                <li><a href="https://www.artylope.com/">Ang Yixin</a></li>
+                <li><a href="https://www.artylope.com/">Ang Yixin (UX/UI Portfolio Page)</a></li>
             </ul>
             <li>Features includes Augmented Reality (AR) furniture placement; Space planning: move furniture simply by drag and drop on the user uploaded floor plan</li>
             <li>Integrates with Stripes Payment, 8th-Wall AR API</li>
