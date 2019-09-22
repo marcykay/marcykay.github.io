@@ -69,15 +69,16 @@
             <img src="./images/hagd_main.png" width="400px" />
         </ul>
     </ul>
+    <div class="centerContainer">
+        <a href="mailto:mahchinkok@gmail.com">
+            <img src="./images/email.svg" width="30px"/>
+        </a>
+        <span class="space"></span>
+        <a href="https://www.linkedin.com/in/ck-mah/">
+            <img src="./images/linkedin.svg" width="30px"/>
+        </a>
+    <div>
 </main>
-<div class="centerContainer">
-    <a href="mailto:mahchinkok@gmail.com">
-        <img src="./images/email.svg" width="30px"/>
-    </a>
-    <span class="space"></span>
-    <a href="https://www.linkedin.com/in/ck-mah/">
-        <img src="./images/linkedin.svg" width="30px"/>
-    </a>
-<div>
+
 
 <script src="script.js"></script>
