@@ -4,7 +4,7 @@
 <link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,700,900&display=swap" rel="stylesheet">
 
 <main>
-    <div>
+    <div class="centerContainer">
         <a href="mailto:mahchinkok@gmail.com">
             <img src="./images/email.svg" width="30px"/>
         </a>
@@ -70,7 +70,7 @@
         </ul>
     </ul>
 </main>
-<div class="footerContainer">
+<div class="centerContainer">
     <a href="mailto:mahchinkok@gmail.com">
         <img src="./images/email.svg" width="30px"/>
     </a>
