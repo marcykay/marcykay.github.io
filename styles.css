@@ -52,7 +52,7 @@ li:not(:last-child) {
 	margin-bottom: 5px;
 }
 
-.footerContainer {
+.centerContainer {
 	display: flex;
     justify-content: center;
 	align-items: center;
