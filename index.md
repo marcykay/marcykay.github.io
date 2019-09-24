@@ -25,7 +25,7 @@
     <p></p>
     <h4>My Projects</h4>
     <ul>
-        <li><a href="https://marcykay.github.io/sei-19/project-1/game.html">Puzzle Game(Take It Easy) - Github Pages</a>
+        <li><a href="https://marcykay.github.io/sei-19/project-1/game.html" target="_blank">Puzzle Game(Take It Easy) - Github Pages</a>
             <ul>
                 <li>A tile-based puzzle game that requires the player to strategize and form continuous rows of same colour from edge to edge in order to score the maximum points</li>
                 <li>Playable by up to 2 players with 2 gameboards sizes</li>
@@ -35,7 +35,7 @@
             </ul>
         </li>
         <hr/>
-        <li><a href="https://sei19takeanote.herokuapp.com">Take A Note - Heroku</a></li>
+        <li><a href="https://sei19takeanote.herokuapp.com" target="_blank">Take A Note - Heroku</a></li>
         <ul>
             <li>A full-stack mobile responsive note-taking web app</li>
             <li>Data are saved on the Heroku PostgreSQL server, images are saved on cloudinary</li>
@@ -45,12 +45,12 @@
             <img src="./images/tan_main.png" width="400px" /><img src="./images/tan_sub.png" width="400px" />
         </ul>
         <hr/>
-        <li><a href="https://oakandbrass.herokuapp.com/">Oak & Brass - Heroku</a></li>
+        <li><a href="https://oakandbrass.herokuapp.com/" target="_blank">Oak & Brass - Heroku</a></li>
         <ul>
             <li>A furniture e-commerce website (Team Effort)</li>
             <ul>
-                <li><a href="https://kach92.github.io/portfolio/">Kenny Ang (Portfolio Page)</a></li>
-                <li><a href="https://www.artylope.com/">Ang Yixin (UX/UI Portfolio Page)</a></li>
+                <li><a href="https://kach92.github.io/portfolio/" target="_blank">Kenny Ang (Portfolio Page)</a></li>
+                <li><a href="https://www.artylope.com/" target="_blank">Ang Yixin (UX/UI Portfolio Page)</a></li>
             </ul>
             <li>Features includes Augmented Reality (AR) furniture placement; Space planning: move furniture simply by drag and drop on the user uploaded floor plan</li>
             <li>Integrates with Stripes Payment, 8th-Wall AR API</li>
@@ -60,7 +60,7 @@
             <img src="./images/oab_floorPlanner.png" width="500px" />
         </ul>
         <hr/>
-        <li><a href="https://sei19-haveagoodday.herokuapp.com/">Have a Good Day - Heroku</a></li>
+        <li><a href="https://sei19-haveagoodday.herokuapp.com/" target="_blank">Have a Good Day - Heroku</a></li>
         <ul>
             <li>A dashboard based on React front-end frameworks which fetches data from NEA & LTA (APIs) to display weather and bus arrivals information</li>
             <li>User's preferences are saved on the Heroku PostgreSQL server</li>
