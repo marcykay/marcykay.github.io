@@ -12,6 +12,10 @@
         <a href="https://www.linkedin.com/in/ck-mah/">
             <img src="./images/linkedin.svg" width="30px"/>
         </a>
+        <span class="space"></span>
+        <a href="https://profiles.generalassemb.ly/profiles/chinkok-mah">
+            <img src="./images/personIcon.svg" width="30px"/>
+        </a>
     </div>
     <h3>2019 September 13</h3>
     <h3>Completed Software Engineering Immersive (SEI-19) @ <a href="https://generalassemb.ly/">General Assembly Singapore</a></h3>
@@ -77,6 +81,10 @@
     <span class="space"></span>
     <a href="https://www.linkedin.com/in/ck-mah/">
         <img src="./images/linkedin.svg" width="30px"/>
+    </a>
+    <span class="space"></span>
+    <a href="https://profiles.generalassemb.ly/profiles/chinkok-mah">
+        <img src="./images/personIcon.svg" width="30px"/>
     </a>
 <div>
 
